@@ -1,6 +1,5 @@
 #!/bin/bash
 
-# Variables for the first condition
 path="/hdfs/data/data1"
 name_of_directory="data1"
 filename_excel="daily_market_price.xlsx"
